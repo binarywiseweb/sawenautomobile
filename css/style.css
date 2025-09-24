@@ -407,6 +407,7 @@
 
 @media (max-width: 768px) {
   .logo-img {
-    max-width: 190px;  /* smaller size for mobile */
+    height: 100px; /* bigger height on mobile */
+    width: auto;
   }
 }

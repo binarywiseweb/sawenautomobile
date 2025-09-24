@@ -386,7 +386,7 @@
   display: block;
   width: 150px;      /* default small header logo width */
   height: auto;
-  max-height: 40px;  /* ensure it never gets too tall */
+  max-height: 100px;  /* ensure it never gets too tall */
   -webkit-user-drag: none;
   user-select: none;
 }

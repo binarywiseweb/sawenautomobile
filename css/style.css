@@ -404,12 +404,7 @@
 }
 
 /* mobile */
-@media (max-width: 576px) {
-  .site-logo img {
-    width: 80px;
-    max-height: 28px;
-  }
-}
+
 @media (max-width: 768px) {
   .logo-img {
     max-width: 135px;  /* smaller size for mobile */
